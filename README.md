@@ -3,11 +3,26 @@
     Juego en donde se adivina el numero secreto
     <br />
     <br />
-    ![11-2](https://github.com/user-attachments/assets/a27cacb9-2c1b-478b-9e76-1ee423c96387)
+    
+  [colocando comentarios]: <> 
+      
+   [ primera forma
+    jjjjjjjjjjjj ]: #
 
-    <!--  para agregar una imagen
-    <a href="https://docusaurus.io">
-      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
-    </a>    -->
+  [ segunda forma   /]: <> 
+
+  [//]: <> (esta es 
+            otra manera)
+
+  <!-- Esta es con HTML -->
+
+  [//]: <> (<img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"> )
+
+  ![Akiramoto colocamos  imagen arratrando](https://github.com/user-attachments/assets/e8ae50c2-baf9-4c7f-9beb-835e77f8d00a)
+
   </h1>
 </div>
+
+## Introduction
+
+Este es unproyecto en ALURA, pagina web qeu ayuda a colocar un numero secreto
