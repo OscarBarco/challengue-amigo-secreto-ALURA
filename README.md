@@ -22,7 +22,8 @@
 
   </h1>
 </div>
-
+- Estadp de; proyecto en construccion
+                                  
 ## Introduction
 
 Este es unproyecto en ALURA, pagina web qeu ayuda a colocar un numero secreto
